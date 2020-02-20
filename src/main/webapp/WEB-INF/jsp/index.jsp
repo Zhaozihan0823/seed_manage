@@ -5,14 +5,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-<title>项目管理系统 by www.eyingda.com</title>
+<title>jsp支持 by www.eyingda.com</title>
 </head>
 
 <frameset rows="59,*" cols="*" frameborder="no" border="0" framespacing="0">
-  <frame src="../../../resources/static/files/top.html" name="topFrame" scrolling="No" noresize="noresize" id="topFrame" title="topFrame" />
+  <frame src="/files/top.html" name="topFrame" scrolling="No" noresize="noresize" id="topFrame" title="topFrame" />
   <frameset cols="213,*" frameborder="no" border="0" framespacing="0">
-    <frame src="../../../resources/static/files/left.html" name="leftFrame" scrolling="No" noresize="noresize" id="leftFrame" title="leftFrame" />
-    <frame src="../../../resources/static/files/welcome.html" name="mainFrame" id="mainFrame" title="mainFrame" />
+    <frame src="/files/left.html" name="leftFrame" scrolling="No" noresize="noresize" id="leftFrame" title="leftFrame" />
+    <frame src="/files/welcome.html" name="mainFrame" id="mainFrame" title="mainFrame" />
   </frameset>
 </frameset>
 <noframes><body>
