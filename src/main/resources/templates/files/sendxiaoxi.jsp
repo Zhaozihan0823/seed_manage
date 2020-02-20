@@ -5,9 +5,9 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
 <title>项目管理系统 by www.eyingda.com</title>
-<link rel="stylesheet" rev="stylesheet" href="../../static/css/style.css" type="text/css" media="all" />
+<link rel="stylesheet" rev="stylesheet" href="/css/style.css" type="text/css" media="all" />
 
-<script type="text/javascript" src="../../static/js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="/js/jquery-1.9.1.min.js"></script>
 
 <script type="text/javascript">
 

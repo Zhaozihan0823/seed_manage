@@ -1,9 +1,11 @@
 server:
   port: 8090
 spring:
-  thymeleaf:
-    suffix: .html
-    prefix: classpath:/templates/files/
+  resources:
+    static-locations: classpath:/static/, classpath:/templates/
+#  thymeleaf:
+#    suffix: .html
+#    prefix: classpath:/templates/files/
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://101.200.125.114:3306/zzh?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC

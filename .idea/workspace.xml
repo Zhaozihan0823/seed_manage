@@ -1,25 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4340008f-de56-4025-800e-f180ef70a525" name="Default Changelist" comment="" />
+    <list default="true" id="7f339c84-9ecb-4b45-b027-8cdf7443f8a6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seed/seed_manage/controller/JspController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/seed/seed_manage/controller/JspController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/addGongZi.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/addGongZi.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/addGongZiType.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/addGongZiType.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/addYuanGongGongZi.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/addYuanGongGongZi.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/addgongnen.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/addgongnen.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/addjihua.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/addjihua.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/addmokuai.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/addmokuai.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/addquanxian.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/addquanxian.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/addrenwu.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/addrenwu.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/addxuqiu.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/addxuqiu.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/editgongnen.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/editgongnen.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/editjihua.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/editjihua.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/editmokuai.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/editmokuai.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/editrenwu.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/editrenwu.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/editxiangmu.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/editxiangmu.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/editxuqiu.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/editxuqiu.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/gongnengxuqiu.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/gongnengxuqiu.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/gongzi.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/gongzi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/jihuamingxi.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/jihuamingxi.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/kehu.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/kehu.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/kehuminxi.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/kehuminxi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/left.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/left.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/listGongZiType.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/listGongZiType.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/listMonthYuanGongGongZi.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/listMonthYuanGongGongZi.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/listYuanGongGongZi.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/listYuanGongGongZi.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/listchengbenxinxi.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/listchengbenxinxi.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/listgerenrenwu.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/listgerenrenwu.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/listgongneng.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/listgongneng.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/listgongnenmingxi.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/listgongnenmingxi.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/listjihua.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/listjihua.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/listkehuxinxi.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/listkehuxinxi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/listmokuai.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/listmokuai.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/listmokuaimingxi.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/listmokuaimingxi.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/listrenwu.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/listrenwu.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/listrenwumingxi.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/listrenwumingxi.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/listsendxiaoxi.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/listsendxiaoxi.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/listshangchuan.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/listshangchuan.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/listshangchuanmingxi.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/listshangchuanmingxi.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/listtakexiaoxi.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/listtakexiaoxi.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/listtakexiaoxi.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/listtakexiaoxi.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/listxiangmumingxi.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/listxiangmumingxi.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/listxiangmuxinxi.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/listxiangmuxinxi.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/listxiaoxi.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/listxiaoxi.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/listxuqiu.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/listxuqiu.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/listxuqiuewaizhichu.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/listxuqiuewaizhichu.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/listxuqiumingxi.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/listxuqiumingxi.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/listyuangong.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/listyuangong.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/listyuangongmingxi.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/listyuangongmingxi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/listzhiwu.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/listzhiwu.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/mode.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/mode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/mokuaixuqiu.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/mokuaixuqiu.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/sendxiaoxi.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/sendxiaoxi.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/sendxiaoxi.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/sendxiaoxi.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/sendxiaoximingxi.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/sendxiaoximingxi.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/takexiaoximingxi.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/takexiaoximingxi.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/top.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/top.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/welcome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/xiangmu.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/xiangmu.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/xiangmugongnen.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/xiangmugongnen.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/xiangmujihua.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/xiangmujihua.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/xiangmumokuai.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/xiangmumokuai.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/xiangmuwenjian.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/xiangmuwenjian.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/xiangmuxuqiu.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/xiangmuxuqiu.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/xiangmuzongbiao.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/xiangmuzongbiao.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/xuqiumingxi.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/xuqiumingxi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/yuangong.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/yuangong.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/yuangongsalary.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/yuangongsalary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/yuangongxiangmu.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/yuangongxiangmu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/files/zhiwu.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/files/zhiwu.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/seed/seed_manage/controller/JspController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/seed/seed_manage/controller/JspController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/files/left.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/files/left.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/files/listtakexiaoxi.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/files/listtakexiaoxi.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/files/welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/files/welcome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\m2\repository" />
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-        <option name="userSettingsFile" value="D:\m2\setting.xml" />
+        <option name="mavenHome" value="F:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.6.1\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -28,9 +108,8 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1Y45E3xXS1WK5tyGvTlMgitNdpP" />
+  <component name="ProjectId" id="1Y4R25e4e5lEbnOj3mSHEJYWzAa" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -42,22 +121,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\CodeDemo\ideaproject\seed_manage\src\main\resources\templates" />
-      <recent name="D:\CodeDemo\ideaproject\seed_manage\src\main\webapp\WEB-INF\jsp" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\CodeDemo\ideaproject\seed_manage\src\main\webapp" />
-      <recent name="D:\CodeDemo\ideaproject\seed_manage\src\main\resources\static" />
-      <recent name="D:\CodeDemo\ideaproject\seed_manage\src\main\resources\WEB-INF\jsp" />
-      <recent name="D:\CodeDemo\ideaproject\seed_manage\src\main\resources" />
+      <recent name="E:\AOracleEducation\MyWeb\zzh\seed_manage\src\main\resources\templates" />
+      <recent name="E:\AOracleEducation\MyWeb\zzh\seed_manage\src\main\resources\static" />
     </key>
   </component>
   <component name="RunManager">
@@ -74,12 +146,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4340008f-de56-4025-800e-f180ef70a525" name="Default Changelist" comment="" />
-      <created>1582188910511</created>
+      <changelist id="7f339c84-9ecb-4b45-b027-8cdf7443f8a6" name="Default Changelist" comment="" />
+      <created>1582199669882</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1582188910511</updated>
-      <workItem from="1582188921531" duration="3298000" />
+      <updated>1582199669882</updated>
+      <workItem from="1582199679007" duration="1617000" />
     </task>
     <servers />
   </component>
@@ -87,57 +159,41 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="950" y="481" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1582191120798">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1582201395105">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="950" y="481" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1920.1040@0.0.1920.1040" timestamp="1582191120798" />
-    <state x="982" y="481" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1582191101955">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1582201395105" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1582201395105">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="982" y="481" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582191101955" />
-    <state x="950" y="256" key="FileChooserDialogImpl" timestamp="1582189107909">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1582201395105" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1582201395104">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="950" y="256" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582189107909" />
-    <state width="1163" height="239" key="GridCell.Tab.0.bottom" timestamp="1582192324603">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1582201395104" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1582201395105">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1163" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582192324603" />
-    <state width="1163" height="239" key="GridCell.Tab.0.center" timestamp="1582192324603">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1582201395105" />
+    <state width="1493" height="210" key="GridCell.Tab.1.bottom" timestamp="1582201395106">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1163" height="239" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582192324603" />
-    <state width="1163" height="239" key="GridCell.Tab.0.left" timestamp="1582192324603">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1582201395106" />
+    <state width="1493" height="210" key="GridCell.Tab.1.center" timestamp="1582201395106">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1163" height="239" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582192324603" />
-    <state width="1163" height="239" key="GridCell.Tab.0.right" timestamp="1582192324603">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="210" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1582201395106" />
+    <state width="1493" height="210" key="GridCell.Tab.1.left" timestamp="1582201395105">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1163" height="239" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582192324603" />
-    <state width="1163" height="239" key="GridCell.Tab.1.bottom" timestamp="1582192324603">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="210" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1582201395105" />
+    <state width="1493" height="210" key="GridCell.Tab.1.right" timestamp="1582201395106">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1163" height="239" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582192324603" />
-    <state width="1163" height="239" key="GridCell.Tab.1.center" timestamp="1582192324603">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="210" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1582201395106" />
+    <state x="447" y="145" width="782" height="600" key="find.popup" timestamp="1582201387280">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1163" height="239" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582192324603" />
-    <state width="1163" height="239" key="GridCell.Tab.1.left" timestamp="1582192324603">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1163" height="239" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582192324603" />
-    <state width="1163" height="239" key="GridCell.Tab.1.right" timestamp="1582192324603">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1163" height="239" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582192324603" />
-    <state x="673" y="143" key="SettingsEditor" timestamp="1582191127037">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="673" y="143" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582191127037" />
-    <state x="257" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1582189928092">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="257" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582189928092" />
+    <state x="447" y="145" width="782" height="600" key="find.popup/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1582201387280" />
   </component>
 </project>
